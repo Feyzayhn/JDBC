@@ -1,0 +1,8 @@
+*** ORDER BY --> SIRALAMA YAPAR
+*** ASC --> Order by in sonuna eklersek natural siralama yapar
+*** DESC --> Order by ın sonuna eklersek tersten siralama yapar
+*** TOP --> Kac deger gormek istiyorsak onu yazariz mesela ilk 10 istiyrouz top10 yazariz
+***AGGREGATE FUNCTIONS --> Sum,Min,Max,Avg,Count
+*** "Aggregate Functions'ı" daha anlasilir hale getirmek icin "Group By" ile siralariz. Gruplayarak siraliyoruz
+*** HAVING --> Aggregate Functions'i Group By icinde kullanmak istiyorsak bu komutla kullaniriz
+               WHERE komutu Group By icinde kullanilmaz
